@@ -1,0 +1,24 @@
+{
+  "name": "4.console-application",
+  "version": "1.0.0",
+  "description": "interactive console application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamzDeveloper/console-application.git"
+  },
+  "author": "José Montenegro (JamzDeveloper)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamzDeveloper/console-application/issues"
+  },
+  "homepage": "https://github.com/JamzDeveloper/console-application#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.1.2",
+    "uuid": "^8.3.2"
+  }
+}
